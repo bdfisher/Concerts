@@ -1,0 +1,113 @@
+body { background-color: dimgray;}
+h1 { color: greenyellow;
+font-family: Palatino;
+font-size: 2.3em;
+padding-top: 0px;
+text-align: center;
+text-decoration: underline;
+text-decoration-color: black;}
+	a {color: deepskyblue;}
+		p { color: ghostwhite;
+font-family: Bookman Old Style;
+font-size:.95em;}
+footer { color: deepskyblue;
+  position:absolute;
+   bottom:0;
+   width:100%;
+   height:30px; 
+font-style: italic;}
+.DFKI { color: deepskyblue;
+  position:absolute;
+   bottom:0;
+   width:100%;
+   height:0px; 
+font-style: italic;}
+h4 { color: deepskyblue; 
+text-align: left;}
+h2 {color: deepskyblue;
+font-family: Georgia;}
+#mySidenav a {
+    position: absolute;
+    left: -116px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    color: black;
+    border-radius: 0 5px 5px 0;
+}
+h6 {position:absolute;
+left: -6px;
+padding: 0px;
+width: 35px;
+height: 593px;
+background-color: black;
+color: deepskyblue;
+top: 01px;
+font-size: 13px;
+text-align: center;
+    font-family: Palatino;
+    text-decoration: underline;
+    text-decoration-color: deepskyblue
+}
+#mySidenav a:hover {
+    left: 0;
+}
+
+#hme {top:50px;
+background-color:darkturquoise;
+font-size: 18px;}
+#Ghost {
+    top: 102px;
+    background-color: #4CAF50;
+    font-size: 18px;
+}
+
+#imag {
+    top: 157px;
+    background-color: #2196F3;
+    font-size: 14px;
+}
+
+#vasm {
+    top: 223px;
+    background-color: #f44336;
+    font-size: 11px;
+}
+
+#raim {
+    top: 281px;
+    background-color: purple;
+    font-size: 13px;
+}
+#fhouse {top: 344px;
+background-color: darkcyan;
+font-size: 20px;
+}
+#sbbs {top: 400px;
+background-color: orange;
+font-size: 11px; }
+#fipf {top: 458px;
+background-color: pink;
+font-size: 10px; }
+#dlk {top: 515px;
+background-color: yellow;
+font-size: 12px; }
+#ni {top: 577px;
+background-color:red;
+font-size: 12px; }
+.bgh {background-color: darkcyan;}
+.bgt { background-color: #911911;}
+.bgt2 { background-color:#123456;}
+.bgt3 { background-color: #147852;}
+.bgt4 {background-color: #456789;}
+.bgt5 { background-color: #633974;}
+.bgt6 {background-color: #BA4A00;}
+.bgt7 {background-color: #c3cb71;}
+.bgt8 {background-color: #17a589;}
+.bgt9 {background-color: #273746;}
+.songtitle {color: greenyellow;
+background-color: black;
+font-size: 12px;
+width: 200px;
+text-align: center;}
